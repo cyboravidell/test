@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ravi Kumar
-Skills: HTML, CSS, Bootstrap, Javascript, Python, Django, REST API, Data Structures & Algorithm
-Email: cyboravidell@gmail.com
-{{/user}}
